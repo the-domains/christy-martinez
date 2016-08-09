@@ -1,4 +1,3 @@
-layout_spectrum: 0.47975878277793527
 typography_spectrum: 0.1779277289751917
 color:
   brandStrength: 0.9841667383443564
@@ -11,4 +10,6 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.47975878277793527
 name: Christy Martinez
+title: Let's Start Something New
